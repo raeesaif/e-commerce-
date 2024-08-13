@@ -27,14 +27,14 @@ const products = [
   },
   {
     id: 4,
-    image: "/images/women3.jpg",
+    image: "/images/men3.jpg",
     title: "Product 3",
     description: "Description of Product 3",
     price: "49.99"
   },
   {
     id: 5,
-    image: "/images/women3.jpg",
+    image: "/images/men4.jpg",
     title: "Product 3",
     description: "Description of Product 3",
     price: "49.99"
@@ -45,7 +45,8 @@ const products = [
     title: "Product 3",
     description: "Description of Product 3",
     price: "49.99"
-  }
+  },
+  
 ];
 
  const Men = () => {
