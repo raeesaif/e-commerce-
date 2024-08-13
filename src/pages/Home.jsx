@@ -82,7 +82,7 @@ const slideImages = [
         <div className=' py-6 w-80  object-cover rounded-lg mx-4
         transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ...' >
             <Link to="/women">
-            <img src="/images/women1.jpg" alt="product" />
+            <img src="/images/girl3.jpg" alt="product" />
             </Link>
         </div>
         <div className=' py-6 w-80  object-cover rounded-lg mx-4 
