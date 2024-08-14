@@ -8,7 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 if you run the project 
+<br>
 firt : cd Front-End
+<br>
 second : cd GlamGrab
+<br>
 third : npm install
+<br>
 fourth : npm run dev
