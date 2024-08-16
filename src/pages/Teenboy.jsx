@@ -6,23 +6,23 @@ const Teenboyproduct = [
     {
         id:1,
         image:"/images/boy.jpg",
-        title:"Product 1",
-        description:"description of product 1 ",
-        price: 29.99
+        title:"T-Shirt",
+        description:"Luxurious organic cotton T-shirt, perfect for everyday wear",
+        price: 2500
     },
     {
         id:2,
         image:"/images/men1.jpg",
-        title:"product 2",
-        description:"description of product 2",
-        price:89.00
+        title:"T-Shirt",
+        description:"Luxurious organic cotton T-shirt, perfect for everyday wear",
+        price: 1500
     },
     {
         id:3,
         image:"/images/men2.jpg",
-        title:"product 3",
-        description:"description of product 3",
-        price:33.33
+        title:"T-Shirt",
+        description:"Luxurious organic cotton T-shirt, perfect for everyday wear",
+        price: 2000
     }
 
 ];

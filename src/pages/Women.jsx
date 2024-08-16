@@ -9,23 +9,23 @@ const WomenProducts = [
     {
         id: 1,
         image:"/images/women1.jpg",
-        title: "Women's T-Shirt",
-        description:"description of product 1",
-        price:29.99
+        title: "Women's Dress",
+        description:"Sustainable fashion meets urban style",
+        price: 2500
     },
     {
         id: 2,
         image:"/images/women2.jpg",
         title: "Women's Dress",
-        description:"description of product 2",
-        price:49.99
+        description:"Sustainable fashion meets urban style",
+        price: 3000
     },
     {
         id: 3,
         image:"/images/women3.jpg",
         title: "Women's Skirt",
-        description:"description of product 3",
-        price:39.99
+        description:"Sustainable fashion meets urban style",
+        price: 2000
     }
 
 ];

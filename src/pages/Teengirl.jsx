@@ -8,23 +8,23 @@ const teengirlproduct = [
     {
         id:1,
         image:"/images/women1.jpg",
-        title:"Product 1",
-        description:"description of product 1",
-        price:22.00
+        title:"Dress",
+        description:"Sustainable fashion meets urban style",
+        price: 2000
     },
     {
         id:2,
-        image:"/images/women2.jpg",
-        title:"Product 2",
-        description:"description of product 2",
-        price:11.34
+        image:"/images/girl4.jpg",
+        title:"Dress",
+        description:"Sustainable fashion meets urban style",
+        price: 4000
     },
     {
         id:3,
         image:"/images/women3.jpg",
-        title:"product 3",
-        description:"description of product 3",
-        price:55.55
+        title:"Dress",
+        description:"Express yourself with our unique designs",
+        price: 2500
     }
 
 ];

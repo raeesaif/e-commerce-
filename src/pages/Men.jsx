@@ -7,44 +7,44 @@ const products = [
   {
     id: 1,
     image: "/images/men1.jpg",
-    title: "Product 1",
-    description: "Description of Product 1",
-    price: "29.99"
+    title: "T-Shirt",
+    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    price: "3500"
   },
   {
     id: 2,
     image: "/images/men2.jpg",
-    title: "Product 2",
-    description: "Description of Product 2",
-    price: "39.99"
+    title: "T-Shirt",
+    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    price: "3000"
   },
   {
     id: 3,
     image: "/images/boy.jpg",
-    title: "Product 3",
-    description: "Description of Product 3",
-    price: "49.99"
+    title: "T-Shirt",
+    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    price: "2500"
   },
   {
     id: 4,
     image: "/images/men3.jpg",
-    title: "Product 3",
-    description: "Description of Product 3",
-    price: "49.99"
+    title: "T-Shirt",
+    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    price: "5000"
   },
   {
     id: 5,
     image: "/images/men4.jpg",
-    title: "Product 3",
-    description: "Description of Product 3",
-    price: "49.99"
+    title: "T-Shirt",
+    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    price: "4000"
   },
   {
     id: 6,
-    image: "/images/women3.jpg",
-    title: "Product 3",
-    description: "Description of Product 3",
-    price: "49.99"
+    image: "/images/boy1.jpg",
+    title: "T-Shirt",
+    description: "Grab attention with our eye-catching slogan tees",
+    price: "2000"
   },
   
 ];

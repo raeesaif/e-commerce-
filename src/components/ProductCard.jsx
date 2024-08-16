@@ -23,7 +23,7 @@ import { useNavigate } from 'react-router-dom';
       <div className="p-4 flex flex-col">
         <h3 className="text-lg font-semibold text-white">{title}</h3>
         <p className="text-gray-400 flex-grow">{description}</p>
-        <p className="text-gray-100 mt-2">${price}</p>
+        <p className="text-gray-100 mt-2">PKR{price}</p>
         <button
           onClick={handleAddToCart}
           className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"
