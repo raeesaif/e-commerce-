@@ -23,7 +23,7 @@ const products = [
     image: "/images/boy.jpg",
     title: "T-Shirt",
     description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
-    price: "2500"
+    price: "2000"
   },
   {
     id: 4,

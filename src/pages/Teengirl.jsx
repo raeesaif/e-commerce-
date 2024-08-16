@@ -24,7 +24,7 @@ const teengirlproduct = [
         image:"/images/women3.jpg",
         title:"Dress",
         description:"Express yourself with our unique designs",
-        price: 2500
+        price: 3500
     }
 
 ];
