@@ -8,7 +8,7 @@ const products = [
     id: 1,
     image: "/images/men1.jpg",
     title: "T-Shirt",
-    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    description: "Upgrade your wardrobe with our premium quality T-shirts",
     price: "3500"
   },
   {
@@ -29,7 +29,7 @@ const products = [
     id: 4,
     image: "/images/men3.jpg",
     title: "T-Shirt",
-    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    description: "Upgrade your wardrobe with our premium quality T-shirts",
     price: "5000"
   },
   {
