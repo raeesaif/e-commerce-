@@ -6,9 +6,9 @@ import { Link } from 'react-router-dom';
 const products = [
   {
     id: 1,
-    image: "/images/men1.jpg",
-    title: "T-Shirt",
-    description: "Upgrade your wardrobe with our premium quality T-shirts",
+    image: "/images/whitekameez.webp",
+    title: "WHITE BLENDED KAMEEZ SHALWAR",
+    description: "Crafted With Simplicity and Elegance in Mind",
     price: "3500"
   },
   {
@@ -34,9 +34,9 @@ const products = [
   },
   {
     id: 5,
-    image: "/images/men4.jpg",
-    title: "T-Shirt",
-    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
+    image: "/images/kameez.webp",
+    title: "BROWN BLENDED KAMEEZ SHALWAR ",
+    description: "Simple yet stylish,casual kameez shalwar",
     price: "4000"
   },
   {
