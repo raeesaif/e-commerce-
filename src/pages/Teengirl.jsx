@@ -5,27 +5,44 @@ import { Header } from "../components/Header";
 
 const teengirlproduct = [
 
-    {
+{  
         id:1,
-        image:"/images/women1.jpg",
-        title:"Dress",
+        image:"/images/teenkurti.webp",
+        title:"BLACK LAWN KURTI",
         description:"Sustainable fashion meets urban style",
         price: 2000
-    },
-    {
+      },
+      {
         id:2,
-        image:"/images/girl4.jpg",
-        title:"Dress",
-        description:"Sustainable fashion meets urban style",
+        image:"/images/rustkurti.webp",
+        title:"RUST TEXTURED TEENS KURTI",
         price: 4000
-    },
-    {
+      },
+      {
         id:3,
-        image:"/images/women3.jpg",
-        title:"Dress",
-        description:"Express yourself with our unique designs",
+        image:"/images/greenkurti.webp",
+        title:"GREEN CAMBRIC KURTI",
         price: 3500
-    }
+      },
+      {
+        id:4,
+        image:"/images/pinkkurti.webp",
+        title:"PINK LAWN KURTI ",
+        price: 3382
+      },
+      {
+        id:5,
+        image:"/images/ferozikurti.webp",
+        title:"FEROZI LAWN TEENS KURTI",
+        price: 2767
+      },
+      {
+        id:6,
+        image:"/images/lightkurti.webp",
+        title:"LIGHT BEIGE LAWN KURTI",
+        price: 1578
+}
+
 
 ];
 

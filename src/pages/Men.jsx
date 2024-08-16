@@ -13,10 +13,9 @@ const products = [
   },
   {
     id: 2,
-    image: "/images/men2.jpg",
-    title: "T-Shirt",
-    description: "Luxurious organic cotton T-shirt, perfect for everyday wear",
-    price: "3000"
+    image: "/images/brownkameez.webp",
+    title: "BROWN COTTON KAMEEZ SHALWAR",
+    price: 7155
   },
   {
     id: 3,

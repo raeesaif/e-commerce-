@@ -5,24 +5,39 @@ import { Header } from "../components/Header";
 const Teenboyproduct = [
     {
         id:1,
-        image:"/images/boy.jpg",
-        title:"T-Shirt",
-        description:"Luxurious organic cotton T-shirt, perfect for everyday wear",
-        price: 2500
+        image:"/images/trouser.webp",
+        title:"WHITE COTTON TROUSER",
+        price: 1380
     },
     {
         id:2,
-        image:"/images/men1.jpg",
-        title:"T-Shirt",
-        description:"Luxurious organic cotton T-shirt, perfect for everyday wear",
-        price: 1500
+        image:"/images/navybluekurta.webp",
+        title:"NAVY BLUE BLENDED KURTA ",
+        price: 2767
     },
     {
         id:3,
-        image:"/images/men2.jpg",
-        title:"T-Shirt",
-        description:"Luxurious organic cotton T-shirt, perfect for everyday wear",
-        price: 2000
+        image:"/images/brownkurta.webp",
+        title:"BROWN BLENDED KURTA",
+        price: 2767
+    },
+    {
+        id:4,
+        image:"/images/bluekurta.webp",
+        title:"BLUE COTTON KURTA ",
+        price: 3150
+    },
+    {
+        id:5,
+        image:"/images/blackkurta.webp",
+        title:"BLACK BLENDED KURTA",
+        price: 3075
+    },
+    {
+        id:6,
+        image:"/images/greenkurta.webp",
+        title:"LIGHT GREEN COTTON KURTA ",
+        price: 3075
     }
 
 ];
