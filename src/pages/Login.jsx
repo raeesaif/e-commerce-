@@ -1,19 +1,22 @@
 import React, { useState } from "react";
+import { Header } from "../components/Header";
+const LoginPage = () => {
 
- const Login = () => {
   const [showPassword, setShowPassword] = useState(false);
-
   const togglePasswordVisibility = () => {
     setShowPassword(!showPassword);
   };
 
   return (
+    <>
+    <Header/>
     <div className="flex items-center justify-center min-h-screen bg-black-500">
-      <div className="border border-sky-500 p-8 bg-black text-white shadow-lg rounded-lg w-full max-w-md">
+      <div className="p-8 bg-black-700 text-white shadow-lg rounded-lg w-full max-w-md">
         <h2 className="text-blue-400 text-2xl mb-6">Login</h2>
         <form className="flex flex-col space-y-4">
           <input
             type="email"
+            id="email"
             placeholder="Enter your Email"
             required
             className="p-2 border border-gray-600 rounded bg-gray-800 text-white"
@@ -35,13 +38,15 @@ import React, { useState } from "react";
           </div>
           <button
             type="submit"
-            className="bg-blue-500 text-white py-2 px-4 rounded"
+            className="bg-blue-400 p-2 rounded text-white"
           >
             Login
           </button>
         </form>
       </div>
     </div>
+    </>
   );
 };
-export default Login;
+
+export default LoginPage;
