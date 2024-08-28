@@ -14,6 +14,7 @@ const Teenboy  = lazy(()=>import("./pages/Teenboy"));
 const Teengirl = lazy(()=>import("./pages/Teengirl"));
 const AddtoCart = lazy(()=>import("./pages/AddtoCart"));
 function App() {
+  
   return (
     <RecoilRoot>
     <BrowserRouter>
@@ -26,7 +27,7 @@ function App() {
         <Route path='/teengirl' element={<Teengirl/>}/>
         <Route path="/addtocart" element={<AddtoCart />} />
         <Route path="/about" element={<About />} />
-        <Route path="/login" element={<Login />} />
+        <Route path="/login"  element={<Login />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/privacy" element={<Privacy/>}/>
         <Route path="/service" element={<Service/>}/>
