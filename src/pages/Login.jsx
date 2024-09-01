@@ -99,7 +99,7 @@ const LoginPage = () => {
     // Input Validation (optional, add checks for email format and password length)
     if (!email || !password) {
       setLoginMessage("Please enter your email and password.");
-      return; // Early return if inputs are empty
+      return; 
     }
 
     try {
